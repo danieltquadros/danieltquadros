@@ -1,4 +1,5 @@
 PT/BR:
+
 Olá, meu nome é Daniel, sou um profissional de TI dedicado, graduado em Análise e Desenvolvimento de Sistemas, possuo mais de 3 anos de especialização em desenvolvimento front-end e um background de mais de14 anos de experiência como Técnico de Campo em TI.
 
 A minha paixão pela criação de interfaces dinâmicas e centradas na experiência de usuários levou-me a fazer a transição para o desenvolvimento web, onde dou prioridade à entrega da melhor experiência.
