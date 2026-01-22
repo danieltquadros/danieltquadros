@@ -1,63 +1,59 @@
 # Daniel Quadros
 
-Front-end Developer com formação em Análise e Desenvolvimento de Sistemas e mais de 4 anos de experiência no desenvolvimento de interfaces web escaláveis, responsivas e focadas em performance.
+Frontend Engineer with **4+ years of professional experience** building scalable, high-performance web applications using **React, Next.js, and TypeScript**.
 
-Atuo em ambientes de produção com aplicações de médio e grande porte, colaborando diretamente com times de Produto, UX/UI e Backend. Participo ativamente de decisões técnicas, definição de arquitetura front-end, padronizações e revisão de código.
+I work on production-ready applications for real-world use, collaborating closely with **Product, UX/UI, and Backend teams**. My day-to-day involves frontend architecture decisions, defining technical standards, improving code quality, and delivering features that balance usability, performance, and maintainability.
 
-Tenho experiência sólida com React e Next.js, trabalhando com componentização avançada, gerenciamento de estado, integração com APIs e otimização de performance, sempre aplicando boas práticas de engenharia de software.
-
----
-
-## Stack principal
-
-- **JavaScript (ES6+)**
-- **TypeScript**
-- **React.js**
-- **Next.js (SSR / SSG / App Router)**
-- **Context API, Redux**
-- **HTML5, CSS3**
-- **Styled Components, Tailwind CSS, Ant Design, Material UI**
-- **Integração com APIs REST e GraphQL**
-- **Testes com Jest e React Testing Library**
-- **Git, Docker, CI/CD**
-- **Vercel**
+My core experience is centered around **React and Next.js**, with a strong focus on component-driven architecture, state management, API integrations, authentication flows, and performance optimization, always applying solid software engineering practices.
 
 ---
 
-## O que você vai encontrar nos meus repositórios
+## Main Stack
 
-- Aplicações React e Next.js estruturadas para ambientes reais de produção  
-- Componentes reutilizáveis e organização orientada a escalabilidade  
-- Gerenciamento de estado previsível e bem modelado  
-- Integração com APIs, tratamento de erros e estratégias de carregamento  
-- Foco em performance (lazy loading, code splitting, memoização)  
-- Uso consistente de TypeScript para segurança e manutenibilidade  
-- Projetos de estudo e projetos em evolução utilizados em contexto real  
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js (SSR, SSG, App Router)
+* State Management: Context API, Redux Toolkit, Zustand
+* Styling & UI: Styled Components, Tailwind CSS, Ant Design, Material UI
+* API Integration: REST and GraphQL
+* Testing: Jest, React Testing Library
+* Tooling & DevOps: Git, Docker, CI/CD, Vercel
 
 ---
 
-## Práticas de engenharia
+## What You’ll Find in My Repositories
 
-- Clean Code e padronização de código
-- Linting e formatação automatizada
-- Testes automatizados
-- Versionamento com Git e fluxo de PRs
-- CI/CD para garantir qualidade e previsibilidade
-- Uso estruturado de **AI-assisted development** para acelerar refatorações, documentação e revisão de código, sem comprometer qualidade técnica
+* React and Next.js applications structured for **real production environments**
+* Reusable components with a focus on scalability and long-term maintenance
+* Predictable and well-modeled state management
+* API integrations with proper error handling and loading strategies
+* Performance-focused implementations (lazy loading, code splitting, memoization)
+* Consistent use of TypeScript for reliability and maintainability
+* Study projects and **ongoing products used in real business contexts**
+
+---
+
+## Engineering Practices
+
+* Clean Code and consistent coding standards
+* Automated linting and formatting
+* Automated testing
+* Git-based workflows and pull request reviews
+* CI/CD pipelines to ensure quality and predictable releases
+* Structured use of **AI-assisted development** to speed up refactoring, documentation, and code reviews without compromising technical quality
 
 ---
 
 ## Background
 
-Antes de atuar exclusivamente com desenvolvimento front-end, trabalhei por vários anos com infraestrutura, suporte técnico e atendimento corporativo, o que contribuiu para uma visão mais completa sobre sistemas, ambientes produtivos, estabilidade e impacto real das soluções entregues.
+Before focusing exclusively on frontend development, I worked for several years with infrastructure, technical support, and enterprise IT environments. This background contributes to a broader understanding of systems, production stability, operational constraints, and the real-world impact of software decisions.
 
 ---
 
-## Contato
+## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/danieltquadros  
-- **GitHub:** https://github.com/danieltquadros  
+* LinkedIn: [https://www.linkedin.com/in/danieltquadros](https://www.linkedin.com/in/danieltquadros)
+* GitHub: [https://github.com/danieltquadros](https://github.com/danieltquadros)
 
----
-
-> Este perfil reflete projetos em andamento, estudos técnicos e aplicações utilizadas em contexto real de produção.
+> This profile reflects ongoing projects, technical studies, and applications actively used in production environments.
