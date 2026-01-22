@@ -10,13 +10,30 @@ My core experience is centered around **React and Next.js**, with a strong focus
 
 ## Main Stack
 
+**Frontend**
+
 * JavaScript (ES6+)
 * TypeScript
 * React.js
 * Next.js (SSR, SSG, App Router)
 * State Management: Context API, Redux Toolkit, Zustand
 * Styling & UI: Styled Components, Tailwind CSS, Ant Design, Material UI
-* API Integration: REST and GraphQL
+
+**Backend & Data**
+
+* Node.js
+* Express.js
+* NestJS
+* Prisma ORM
+* PostgreSQL
+
+**APIs & Integration**
+
+* REST and GraphQL
+* Authentication with JWT
+
+**Quality & Tooling**
+
 * Testing: Jest, React Testing Library
 * Tooling & DevOps: Git, Docker, CI/CD, Vercel
 
