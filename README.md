@@ -1,108 +1,99 @@
 <h1 align="center">Hi, I'm Daniel Quadros 👋</h1>
 
+<p align="center"><a href="./README.pt.md">🇧🇷 Português</a></p>
+
 <p align="center">
-  <strong>Frontend Engineer</strong> · 4+ years building production web apps with <strong>React, Next.js, and TypeScript</strong>
+  Full-Stack Developer | React • Next.js • NestJS • Angular<br>
+  Building real-world products with focus on quality, maintainability,
+  and user experience.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danieltquadros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:daniel.quadros@tdsoft.com.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## 🌟 Featured Project
+## 👨‍💻 About me
 
-### [Ohana Sushi](https://www.ohanasushidelivery.com.br) — Full-Stack Delivery E-commerce in Production
+I've been working as a **Front-end Developer** for over 4 years, with
+strong experience in **React, Next.js, and TypeScript** in my daily
+work. I've been continuously evolving toward **Full-Stack solutions**,
+software architecture, and DevOps — combining front-end best practices
+with databases, APIs, and cloud infrastructure.
 
-End-to-end delivery system in active commercial use. Three independent applications with multi-environment deployment, designed and developed individually:
+I'm driven by building products that **actually work in production**,
+with clean code, tests, and consistent processes.
 
-- **🛒 [Customer e-commerce](https://github.com/danieltquadros/ohana_sushi)** — Next.js, styled-components, Ant Design, Redux
-- **⚙️ [REST API backend](https://github.com/danieltquadros/ohana-api)** — NestJS 11, Prisma 7, PostgreSQL, JWT + RBAC
-- **🔧 [Admin panel](https://github.com/danieltquadros/ohana-admin)** — Angular 21, Angular Material, SCSS, CDK
-
-**Highlights:** JWT + RBAC (5 levels), GUEST checkout, Cloudinary uploads, 65+ unit tests, multi-env deploy (Vercel + Render + Neon), CI/CD via GitHub Actions, ~96h/month saved on Free Tier through scheduled monitoring.
-
----
-
-## 💼 About
-
-I work on production-ready applications for real-world use, collaborating closely with **Product, UX/UI, and Backend teams**. My day-to-day involves frontend architecture decisions, defining technical standards, improving code quality, and delivering features that balance usability, performance, and maintainability.
-
-Strong focus on **component-driven architecture, state management, API integrations, authentication flows, and performance optimization**, always applying solid software engineering practices.
+📍 São Francisco do Sul, SC — Brazil
+🎓 Systems Analysis and Development (Anhanguera)
+💼 Front-end Developer @ TDSoft Media Technology
 
 ---
 
-## 🛠️ Main Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Front-end**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-**Frontend**
-- JavaScript (ES6+) · TypeScript
-- React.js · Next.js (SSR, SSG, App Router)
-- Angular (CDK, Material)
-- Redux Toolkit · Zustand · Context API
-- Styled Components · Tailwind · Ant Design · Material UI
+**Back-end**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Backend & Data**
-- Node.js · Express.js · NestJS
-- Prisma ORM
-- PostgreSQL
-- REST · GraphQL
-- JWT Authentication · RBAC
-
-</td>
-<td valign="top" width="33%">
-
-**Quality & DevOps**
-- Jest · React Testing Library
-- ESLint · Prettier · Husky
-- Git · GitHub Actions
-- Docker · Vercel · Render
-- AI-assisted development
-
-</td>
-</tr>
-</table>
+**DevOps & Tooling**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Engineering Practices
+## 🚀 Featured Project
 
-- **Clean Code** and consistent coding standards
-- **Automated testing** as part of the development workflow
-- **Git-based workflows** with structured Pull Requests and code reviews
-- **CI/CD pipelines** ensuring quality and predictable releases
-- Structured use of **AI-assisted development** to accelerate refactoring, documentation, and code reviews — without compromising technical quality
+### 🍣 Ohana Sushi — Full-Stack Delivery E-commerce
 
----
+End-to-end delivery system currently in active commercial use.
+**Designed, architected, and developed individually**, with three
+integrated applications and multi-environment deployment.
 
-## 🌱 Background
+- 🛒 **Customer-facing e-commerce** ([ohana_sushi](https://github.com/danieltquadros/ohana_sushi))
+  — Next.js, TypeScript, styled-components, Ant Design, Redux
+- ⚙️ **REST API** ([ohana-api](https://github.com/danieltquadros/ohana-api))
+  — NestJS 11, Prisma 7, PostgreSQL, JWT + RBAC
+- 🎛️ **Admin panel** ([ohana-admin](https://github.com/danieltquadros/ohana-admin))
+  — Angular 21, Angular Material, CDK (drag-and-drop)
 
-Before focusing exclusively on frontend development, I worked for several years with **infrastructure, technical support, and enterprise IT environments**. This background contributes to a broader understanding of systems, production stability, operational constraints, and the real-world impact of software decisions.
+**Technical highlights:** Multi-environment DEV/PRD, CI/CD with GitHub
+Actions, 65+ unit tests, RBAC with 5 hierarchical levels, GUEST system
+for sign-up-free checkout, image uploads via Cloudinary, referential
+integrity validation.
+
+🔗 **Live:** [ohanasushidelivery.com.br](https://www.ohanasushidelivery.com.br)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieltquadros&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltquadros&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieltquadros&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltquadros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/danieltquadros](https://www.linkedin.com/in/danieltquadros)
-- **GitHub:** [github.com/danieltquadros](https://github.com/danieltquadros)
-
-> This profile reflects ongoing projects, technical studies, and applications actively used in production environments.
+<p align="center">
+  💬 Open to collaboration, mentorship, and new opportunities.
+</p>
