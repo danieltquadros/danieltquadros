@@ -3,7 +3,7 @@
 <p align="center"><a href="./README.pt.md">🇧🇷 Português</a></p>
 
 <p align="center">
-  Full-Stack Developer | React • Next.js • NestJS • Angular<br>
+  Frontend Developer | React • Next.js • TypeScriptr<br>
   Building real-world products with focus on quality, maintainability,
   and user experience.
 </p>
@@ -59,7 +59,6 @@ with clean code, tests, and consistent processes.
 **DevOps & Tooling**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -81,7 +80,7 @@ integrated applications and multi-environment deployment.
   — Angular 21, Angular Material, CDK (drag-and-drop)
 
 **Technical highlights:** Multi-environment DEV/PRD, CI/CD with GitHub
-Actions, 65+ unit tests, RBAC with 5 hierarchical levels, GUEST system
+Actions, 97+ unit tests, RBAC with 5 hierarchical levels, GUEST system
 for sign-up-free checkout, image uploads via Cloudinary, referential
 integrity validation.
 
@@ -99,5 +98,5 @@ integrity validation.
 ---
 
 <p align="center">
-  💬 Open to collaboration, mentorship, and new opportunities.
+  💬 Open to technical exchanges and collaboration on open-source projects.
 </p>
